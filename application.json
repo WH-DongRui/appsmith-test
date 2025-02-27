@@ -1,0 +1,31 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFDEDE",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Car servicing",
+      "isDefault": false
+    },
+    {
+      "id": "Car showroom",
+      "isDefault": false
+    },
+    {
+      "id": "Business dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  }
+}
